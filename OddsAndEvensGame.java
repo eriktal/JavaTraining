@@ -2,7 +2,7 @@ package MyJavaProject;
 
 import java.util.*;
 
-public class OddsAndEvens {
+public class OddsAndEvensGame {
     public static void main(String[] args) {
         System.out.println("Let's play a game called \"OddsAndEvens\".");
         Scanner scan = new Scanner(System.in);
